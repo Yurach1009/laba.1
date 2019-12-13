@@ -1,0 +1,4 @@
+str = ""
+for letter in input():
+    str += letter * 2
+print(str)
